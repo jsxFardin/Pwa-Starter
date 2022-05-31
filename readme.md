@@ -8,8 +8,5 @@ It has no dependencies.
 
 Change background color and text color when offline
 
-## Demo
-https://progwebapp.web.app/
-
 ## Audits
 <img src="lighthouse-audit.png">
